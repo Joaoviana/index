@@ -1,6 +1,6 @@
 # index
 
-## Exercises
+## [Exercises](https://github.com/Joaoviana/Exercises)
 
 ## Projects
 
@@ -8,6 +8,6 @@
 
 ## Notes
 
-## JS-Reference
+## [JS-Reference](https://github.com/Joaoviana/JS-Reference)
 
 ## [Vocab](https://github.com/Joaoviana/vocab/tree/master)
