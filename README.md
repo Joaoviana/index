@@ -4,6 +4,8 @@
 
 ## Projects
 
+## Error-Log
+
 ## Portfolio
 
 ## Notes
