@@ -4,7 +4,7 @@
 
 ## Projects
 
-## Error-Log
+## [Error-Log](https://github.com/Joaoviana/error-log)
 
 ## Portfolio
 
